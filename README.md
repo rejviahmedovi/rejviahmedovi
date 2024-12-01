@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
         </nav>
     </header>
 
-    <section id="home" class="hero">
+    <section id="HOST" class="hero">
         <div class="hero-content">
             <h1>Welcome to SmartWeb</h1>
             <p>Your one-stop solution for modern web designs.</p>
